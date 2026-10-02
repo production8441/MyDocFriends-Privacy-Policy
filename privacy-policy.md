@@ -44,5 +44,4 @@ We may update our Privacy Policy from time to time. Thus, you are advised to rev
 If you have any questions, concerns, or requests regarding this Privacy Policy or the handling of your personal information, please contact us:
 
 Company: LOGIC WORKS INFORMATION TECHNOLOGY CO. L.L.C
-Email: [PRIVACY EMAIL]
 Website: https://logicworks.ae/
